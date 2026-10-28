@@ -1,0 +1,283 @@
+Signup ID,Created,Company domain,Plan,Source,Finished setup,Test account,Country
+S-104200,2026-09-28,summitfoods.com,Starter,Paid search,Yes,,US
+S-104201,2026-09-28,willowsystems.dev,Starter,Organic search,No,,CA
+S-104202,2026-09-28,copperworks.com,Starter,Organic search,No,,US
+S-104203,2026-09-28,juniperlabs.com,Free,Direct,Yes,,DE
+S-104204,2026-09-28,signallabs.co,Free,Partner,No,,US
+S-104205,2026-09-28,signalfoods.ai,Free,Organic search,No,,CA
+S-104206,2026-09-28,cedarlabs.com,Starter,Organic search,Yes,,UK
+S-104207,2026-09-28,juniperhealth.ai,Starter,Paid search,Yes,,DE
+S-104208,2026-09-28,northworks.ai,Free,Direct,No,,US
+S-104209,2026-09-28,lumenlabs.com,Free,Direct,Yes,,US
+S-104210,2026-09-28,maplefoods.com,Starter,Organic search,Yes,,FR
+S-104211,2026-09-28,bluedata.io,Starter,Organic search,No,,AU
+S-104212,2026-09-28,orbitlearning.com,Starter,Referral,Yes,,US
+S-104213,2026-09-28,signalfinance.co,Free,Paid search,Yes,,AU
+S-104214,2026-09-28,brighthealth.io,Free,Organic search,Yes,,US
+S-104215,2026-09-28,signalfinance.co,Free,Paid search,Yes,,DE
+S-104216,2026-09-28,pixellearning.com,Starter,Paid search,No,,FR
+S-104217,2026-09-28,orbitlabs.io,Team,Paid search,Yes,,AU
+S-104218,2026-09-28,maplelabs.com,Free,Direct,No,,DE
+S-104219,2026-09-28,pixelhealth.com,Free,Organic search,No,,KR
+S-104220,2026-09-28,willowworks.ai,Free,Partner,No,,DE
+S-104221,2026-09-28,maplelabs.ai,Starter,Organic search,Yes,,UK
+S-104222,2026-09-28,willowfoods.com,Free,Referral,Yes,,UK
+S-104223,2026-09-28,pixelworks.com,Starter,Paid search,No,,CA
+S-104224,2026-09-28,summitdata.io,Team,Paid search,No,,US
+S-104225,2026-09-28,orbitlabs.dev,Starter,Direct,No,,UK
+S-104226,2026-09-28,junipersystems.io,Free,Paid search,No,,FR
+S-104227,2026-09-28,pixelworks.com,Free,Paid search,No,,DE
+S-104228,2026-09-28,orbitfinance.co,Free,Direct,No,,FR
+S-104229,2026-09-28,brightdata.co,Free,Referral,Yes,,UK
+S-104230,2026-09-28,juniperlabs.com,Free,Organic search,No,,US
+S-104231,2026-09-28,willowfinance.com,Free,Paid search,No,,CA
+S-104232,2026-09-28,juniperfoods.com,Free,Organic search,No,,FR
+S-104233,2026-09-28,orbitlabs.com,Team,Direct,Yes,,DE
+S-104234,2026-09-28,northfoods.ai,Starter,Organic search,No,,FR
+S-104235,2026-09-28,cedarworks.com,Starter,Organic search,No,,UK
+S-104236,2026-09-28,northdata.dev,Team,Direct,Yes,,KR
+S-104237,2026-09-28,copperworks.co,Free,Partner,No,,KR
+S-104238,2026-09-28,lumenlabs.com,Free,Organic search,No,,KR
+S-104239,2026-09-28,signallabs.co,Free,Paid search,No,,US
+S-104240,2026-09-28,willowlogistics.io,Free,Organic search,Yes,,UK
+S-104241,2026-09-28,copperlabs.co,Free,Referral,No,,US
+S-104242,2026-09-28,lumensystems.co,Starter,Paid search,Yes,,FR
+S-104243,2026-09-28,lumenstudio.ai,Free,Paid search,No,,US
+S-104244,2026-09-28,summitlogistics.co,Free,Referral,Yes,,CA
+S-104245,2026-09-28,blueworks.co,Starter,Organic search,No,,KR
+S-104246,2026-09-28,harborlogistics.io,Free,Referral,No,,US
+S-104247,2026-09-28,orbitfinance.io,Free,Partner,Yes,,DE
+S-104248,2026-09-28,pixellabs.com,Free,Paid search,Yes,,CA
+S-104249,2026-09-28,internal.test,Team,Direct,Yes,Yes,US
+S-104250,2026-09-29,atlasdata.ai,Free,Organic search,Yes,,DE
+S-104251,2026-09-29,bluesystems.ai,Free,Partner,No,,US
+S-104252,2026-09-29,pixelstudio.dev,Free,Paid search,No,,US
+S-104253,2026-09-29,brightdata.com,Free,Direct,No,,US
+S-104254,2026-09-29,willowstudio.io,Free,Organic search,No,,US
+S-104255,2026-09-29,juniperworks.io,Free,Paid search,Yes,,US
+S-104256,2026-09-29,lumenfinance.com,Free,Referral,No,,KR
+S-104257,2026-09-29,signallearning.com,Free,Paid search,Yes,,DE
+S-104258,2026-09-29,orbitfinance.ai,Free,Paid search,No,,US
+S-104259,2026-09-29,summithealth.com,Starter,Organic search,Yes,,US
+S-104260,2026-09-29,copperdata.co,Free,Organic search,Yes,,FR
+S-104261,2026-09-29,lumenfinance.com,Team,Organic search,Yes,,AU
+S-104262,2026-09-29,summitsystems.com,Starter,Organic search,No,,US
+S-104263,2026-09-29,bluelogistics.com,Free,Organic search,No,,CA
+S-104264,2026-09-29,willowhealth.com,Free,Partner,Yes,,UK
+S-104265,2026-09-29,maplefinance.co,Free,Organic search,No,,DE
+S-104266,2026-09-29,harborhealth.io,Team,Direct,Yes,,US
+S-104267,2026-09-29,signalworks.com,Free,Organic search,Yes,,DE
+S-104268,2026-09-29,signallogistics.io,Starter,Organic search,No,,UK
+S-104269,2026-09-29,summitlearning.com,Free,Direct,Yes,,DE
+S-104270,2026-09-29,copperworks.ai,Free,Referral,No,,CA
+S-104271,2026-09-29,cedarlabs.dev,Free,Direct,No,,KR
+S-104272,2026-09-29,signalstudio.io,Free,Direct,No,,US
+S-104273,2026-09-29,signalfinance.co,Free,Paid search,No,,FR
+S-104274,2026-09-29,willowlearning.com,Team,Organic search,Yes,,US
+S-104275,2026-09-29,northlogistics.io,Free,Partner,No,,FR
+S-104276,2026-09-29,signalsystems.com,Free,Direct,No,,UK
+S-104277,2026-09-29,cedardata.co,Free,Paid search,No,,US
+S-104278,2026-09-29,willowfoods.io,Free,Paid search,Yes,,US
+S-104279,2026-09-29,harborlogistics.ai,Free,Organic search,Yes,,US
+S-104280,2026-09-29,lumenlabs.io,Free,Partner,No,,US
+S-104281,2026-09-29,signallogistics.com,Free,Paid search,No,,US
+S-104282,2026-09-29,brightworks.co,Free,Organic search,No,,CA
+S-104283,2026-09-29,maplelabs.com,Free,Direct,No,,FR
+S-104284,2026-09-29,junipersystems.io,Team,Organic search,Yes,,US
+S-104285,2026-09-29,quillfoods.com,Starter,Paid search,Yes,,KR
+S-104286,2026-09-29,cedarhealth.io,Free,Organic search,No,,US
+S-104287,2026-09-29,brightfoods.com,Free,Direct,Yes,,US
+S-104288,2026-09-29,copperlearning.com,Free,Referral,No,,UK
+S-104289,2026-09-29,lumensystems.ai,Free,Paid search,Yes,,DE
+S-104290,2026-09-29,cedarlearning.ai,Starter,Direct,No,,DE
+S-104291,2026-09-29,copperlearning.com,Starter,Referral,Yes,,FR
+S-104292,2026-09-29,orbithealth.co,Starter,Organic search,No,,DE
+S-104293,2026-09-29,lumenworks.ai,Free,Direct,No,,US
+S-104294,2026-09-29,orbitfinance.io,Free,Paid search,Yes,,US
+S-104295,2026-09-29,brightsystems.com,Free,Direct,Yes,,AU
+S-104296,2026-09-29,maplelabs.co,Team,Organic search,No,,CA
+S-104297,2026-09-29,cedarfoods.co,Free,Paid search,Yes,,FR
+S-104298,2026-09-29,copperlabs.ai,Starter,Organic search,No,,US
+S-104299,2026-09-29,copperlearning.com,Free,Organic search,Yes,,US
+S-104300,2026-09-29,blueworks.io,Free,Organic search,Yes,,CA
+S-104301,2026-09-29,internal.test,Team,Direct,Yes,Yes,US
+S-104302,2026-09-30,pixelworks.io,Free,Referral,Yes,,DE
+S-104303,2026-09-30,brightworks.co,Starter,Organic search,No,,US
+S-104304,2026-09-30,northhealth.io,Starter,Organic search,Yes,,US
+S-104305,2026-09-30,copperlogistics.io,Starter,Partner,No,,FR
+S-104306,2026-09-30,cedarlearning.com,Starter,Organic search,No,,KR
+S-104307,2026-09-30,northlearning.io,Free,Paid search,No,,FR
+S-104308,2026-09-30,copperfinance.co,Free,Paid search,No,,UK
+S-104309,2026-09-30,orbitlabs.com,Free,Paid search,Yes,,KR
+S-104310,2026-09-30,northlogistics.com,Team,Direct,No,,US
+S-104311,2026-09-30,pixelworks.io,Team,Partner,No,,US
+S-104312,2026-09-30,harborlogistics.io,Free,Paid search,Yes,,US
+S-104313,2026-09-30,willowsystems.io,Free,Paid search,No,,US
+S-104314,2026-09-30,pixelhealth.com,Team,Organic search,No,,US
+S-104315,2026-09-30,harborhealth.io,Free,Referral,No,,US
+S-104316,2026-09-30,orbithealth.co,Starter,Organic search,Yes,,US
+S-104317,2026-09-30,maplelogistics.io,Free,Referral,No,,US
+S-104318,2026-09-30,willowfoods.ai,Free,Direct,No,,CA
+S-104319,2026-09-30,bluesystems.ai,Free,Organic search,Yes,,US
+S-104320,2026-09-30,orbitlogistics.co,Free,Direct,No,,UK
+S-104321,2026-09-30,juniperfoods.io,Starter,Paid search,No,,US
+S-104322,2026-09-30,cedarfoods.co,Free,Paid search,No,,UK
+S-104323,2026-09-30,brightdata.co,Free,Direct,Yes,,KR
+S-104324,2026-09-30,atlasstudio.io,Free,Paid search,Yes,,FR
+S-104325,2026-09-30,mapleworks.com,Free,Referral,Yes,,AU
+S-104326,2026-09-30,bluelogistics.ai,Free,Direct,Yes,,KR
+S-104327,2026-09-30,pixelworks.io,Starter,Paid search,No,,DE
+S-104328,2026-09-30,lumensystems.ai,Starter,Paid search,No,,FR
+S-104329,2026-09-30,atlaslabs.co,Free,Direct,Yes,,FR
+S-104330,2026-09-30,juniperfinance.io,Free,Direct,No,,US
+S-104331,2026-09-30,bluefinance.com,Free,Organic search,Yes,,US
+S-104332,2026-09-30,brightdata.co,Team,Organic search,No,,KR
+S-104333,2026-09-30,willowsystems.dev,Starter,Direct,No,,FR
+S-104334,2026-09-30,pixeldata.com,Free,Organic search,No,,DE
+S-104335,2026-09-30,harborstudio.com,Free,Organic search,No,,US
+S-104336,2026-09-30,harborlearning.ai,Free,Partner,Yes,,FR
+S-104337,2026-09-30,coppersystems.ai,Free,Paid search,Yes,,DE
+S-104338,2026-09-30,harborstudio.com,Team,Referral,Yes,,US
+S-104339,2026-09-30,pixelworks.io,Team,Organic search,Yes,,UK
+S-104340,2026-09-30,cedarhealth.com,Free,Organic search,Yes,,KR
+S-104341,2026-09-30,harborlabs.io,Starter,Partner,No,,KR
+S-104342,2026-09-30,harborfoods.ai,Free,Direct,No,,UK
+S-104343,2026-09-30,willowlearning.com,Starter,Organic search,No,,KR
+S-104344,2026-09-30,bluehealth.com,Starter,Organic search,Yes,,KR
+S-104345,2026-09-30,harborhealth.io,Team,Organic search,Yes,,FR
+S-104346,2026-09-30,cedarfoods.co,Starter,Paid search,Yes,,DE
+S-104347,2026-09-30,northworks.co,Free,Organic search,Yes,,FR
+S-104348,2026-09-30,willowfinance.com,Free,Referral,No,,FR
+S-104349,2026-09-30,cedarworks.io,Starter,Organic search,Yes,,US
+S-104350,2026-09-30,cedarlearning.com,Free,Organic search,No,,US
+S-104351,2026-09-30,orbitstudio.com,Free,Organic search,No,,DE
+S-104352,2026-09-30,juniperlabs.com,Free,Organic search,No,,KR
+S-104353,2026-09-30,internal.test,Team,Direct,Yes,Yes,US
+S-104354,2026-10-01,quillstudio.com,Starter,Direct,No,,US
+S-104355,2026-10-01,pixellearning.com,Free,Direct,No,,CA
+S-104356,2026-10-01,quilldata.io,Free,Direct,No,,DE
+S-104357,2026-10-01,maplelogistics.io,Free,Direct,No,,US
+S-104358,2026-10-01,juniperlogistics.com,Free,Organic search,No,,DE
+S-104359,2026-10-01,lumenhealth.io,Free,Direct,No,,US
+S-104360,2026-10-01,harbordata.dev,Free,Direct,Yes,,CA
+S-104361,2026-10-01,orbitdata.io,Starter,Referral,No,,US
+S-104362,2026-10-01,quillfinance.com,Free,Referral,No,,US
+S-104363,2026-10-01,atlaslogistics.co,Starter,Organic search,No,,UK
+S-104364,2026-10-01,copperlearning.com,Free,Partner,No,,US
+S-104365,2026-10-01,brightsystems.com,Free,Paid search,No,,US
+S-104366,2026-10-01,northlogistics.com,Starter,Organic search,No,,US
+S-104367,2026-10-01,willowfoods.ai,Team,Organic search,Yes,,DE
+S-104368,2026-10-01,cedarstudio.ai,Free,Paid search,No,,FR
+S-104369,2026-10-01,harborlogistics.ai,Free,Direct,No,,US
+S-104370,2026-10-01,maplelogistics.io,Free,Paid search,No,,US
+S-104371,2026-10-01,harborfoods.co,Free,Organic search,No,,AU
+S-104372,2026-10-01,summitworks.com,Free,Referral,Yes,,DE
+S-104373,2026-10-01,maplehealth.com,Team,Direct,No,,DE
+S-104374,2026-10-01,copperworks.com,Starter,Organic search,No,,UK
+S-104375,2026-10-01,orbitdata.ai,Free,Organic search,No,,DE
+S-104376,2026-10-01,signalstudio.dev,Free,Organic search,Yes,,US
+S-104377,2026-10-01,pixelworks.com,Free,Paid search,Yes,,UK
+S-104378,2026-10-01,copperfoods.dev,Free,Direct,No,,US
+S-104379,2026-10-01,bluehealth.ai,Free,Partner,No,,DE
+S-104380,2026-10-01,quilllogistics.io,Free,Partner,No,,US
+S-104381,2026-10-01,signaldata.io,Free,Organic search,Yes,,US
+S-104382,2026-10-01,pixelworks.io,Free,Paid search,Yes,,US
+S-104383,2026-10-01,orbitfinance.co,Free,Referral,No,,US
+S-104384,2026-10-01,cedarworks.com,Free,Paid search,Yes,,US
+S-104385,2026-10-01,atlaslogistics.co,Free,Paid search,No,,CA
+S-104386,2026-10-01,lumenlogistics.com,Starter,Referral,Yes,,US
+S-104387,2026-10-01,bluefoods.com,Starter,Direct,Yes,,UK
+S-104388,2026-10-01,harbordata.io,Starter,Direct,Yes,,US
+S-104389,2026-10-01,brightlearning.io,Free,Organic search,Yes,,US
+S-104390,2026-10-01,maplelabs.io,Free,Organic search,No,,CA
+S-104391,2026-10-01,maplelogistics.ai,Free,Direct,Yes,,UK
+S-104392,2026-10-01,juniperlogistics.com,Free,Direct,No,,UK
+S-104393,2026-10-01,orbitfinance.ai,Team,Partner,No,,UK
+S-104394,2026-10-01,juniperfoods.ai,Free,Organic search,No,,KR
+S-104395,2026-10-01,internal.test,Team,Direct,Yes,Yes,US
+S-104396,2026-10-02,orbitfinance.ai,Starter,Organic search,No,,KR
+S-104397,2026-10-02,cedardata.dev,Free,Referral,Yes,,US
+S-104398,2026-10-02,maplefoods.com,Free,Direct,No,,CA
+S-104399,2026-10-02,atlasworks.com,Free,Organic search,No,,US
+S-104400,2026-10-02,northstudio.com,Free,Partner,Yes,,UK
+S-104401,2026-10-02,signaldata.io,Free,Direct,No,,US
+S-104402,2026-10-02,quilllearning.com,Free,Organic search,No,,US
+S-104403,2026-10-02,signallogistics.com,Free,Organic search,Yes,,US
+S-104404,2026-10-02,brightstudio.com,Free,Referral,No,,US
+S-104405,2026-10-02,orbitfinance.io,Free,Paid search,No,,US
+S-104406,2026-10-02,summitdata.io,Starter,Paid search,No,,US
+S-104407,2026-10-02,willowfoods.io,Free,Partner,No,,US
+S-104408,2026-10-02,cedarlogistics.io,Free,Organic search,No,,US
+S-104409,2026-10-02,summitdata.io,Team,Paid search,Yes,,UK
+S-104410,2026-10-02,juniperfinance.com,Free,Paid search,Yes,,DE
+S-104411,2026-10-02,bluelabs.com,Free,Referral,No,,UK
+S-104412,2026-10-02,willowdata.com,Starter,Direct,Yes,,AU
+S-104413,2026-10-02,signallearning.co,Team,Partner,Yes,,US
+S-104414,2026-10-02,northlearning.io,Team,Organic search,No,,US
+S-104415,2026-10-02,northdata.dev,Free,Organic search,Yes,,US
+S-104416,2026-10-02,willowlearning.com,Free,Paid search,No,,US
+S-104417,2026-10-02,cedardata.co,Free,Direct,No,,US
+S-104418,2026-10-02,lumenlabs.ai,Free,Organic search,No,,US
+S-104419,2026-10-02,northhealth.co,Team,Direct,Yes,,US
+S-104420,2026-10-02,lumenworks.ai,Free,Partner,Yes,,UK
+S-104421,2026-10-02,pixelhealth.com,Starter,Direct,No,,FR
+S-104422,2026-10-02,lumendata.io,Free,Referral,No,,US
+S-104423,2026-10-02,signalhealth.dev,Starter,Paid search,Yes,,US
+S-104424,2026-10-02,quilllearning.io,Free,Direct,Yes,,US
+S-104425,2026-10-02,brighthealth.co,Free,Paid search,Yes,,US
+S-104426,2026-10-02,quilllearning.com,Starter,Direct,No,,AU
+S-104427,2026-10-02,northsystems.co,Starter,Organic search,No,,US
+S-104428,2026-10-02,juniperlabs.com,Free,Organic search,No,,US
+S-104429,2026-10-02,willowdata.ai,Free,Direct,No,,US
+S-104430,2026-10-02,willowhealth.com,Free,Organic search,No,,CA
+S-104431,2026-10-02,copperfinance.com,Free,Referral,No,,US
+S-104432,2026-10-02,harborfoods.co,Free,Referral,No,,US
+S-104433,2026-10-02,signaldata.co,Free,Direct,Yes,,CA
+S-104434,2026-10-02,pixelfinance.ai,Starter,Organic search,No,,US
+S-104435,2026-10-02,bluehealth.ai,Starter,Partner,Yes,,US
+S-104436,2026-10-02,bluelearning.co,Free,Partner,No,,US
+S-104437,2026-10-02,pixelworks.com,Free,Organic search,No,,UK
+S-104438,2026-10-02,harbordata.com,Free,Referral,No,,US
+S-104439,2026-10-02,internal.test,Team,Direct,Yes,Yes,US
+S-104440,2026-10-03,brightfoods.com,Free,Paid search,No,,FR
+S-104441,2026-10-03,northstudio.com,Free,Direct,No,,AU
+S-104442,2026-10-03,mapledata.com,Starter,Direct,Yes,,DE
+S-104443,2026-10-03,willowdata.com,Free,Paid search,No,,US
+S-104444,2026-10-03,blueworks.io,Starter,Organic search,No,,US
+S-104445,2026-10-03,harborsystems.com,Team,Paid search,Yes,,US
+S-104446,2026-10-03,pixelworks.io,Free,Organic search,No,,KR
+S-104447,2026-10-03,northsystems.co,Starter,Direct,No,,AU
+S-104448,2026-10-03,signalworks.co,Starter,Paid search,No,,CA
+S-104449,2026-10-03,northlearning.io,Starter,Partner,Yes,,UK
+S-104450,2026-10-03,lumenlabs.com,Starter,Referral,Yes,,KR
+S-104451,2026-10-03,harborlogistics.io,Free,Direct,No,,US
+S-104452,2026-10-03,quillfoods.co,Free,Referral,No,,UK
+S-104453,2026-10-03,quilllabs.io,Team,Organic search,Yes,,DE
+S-104454,2026-10-03,atlassystems.io,Starter,Direct,Yes,,DE
+S-104455,2026-10-03,northlearning.io,Starter,Organic search,Yes,,KR
+S-104456,2026-10-03,copperdata.com,Free,Organic search,No,,US
+S-104457,2026-10-03,copperdata.com,Free,Direct,No,,US
+S-104458,2026-10-03,lumenstudio.io,Free,Referral,No,,UK
+S-104459,2026-10-03,willowhealth.com,Free,Referral,No,,KR
+S-104460,2026-10-03,harborworks.io,Free,Paid search,No,,KR
+S-104461,2026-10-04,quillfoods.io,Free,Direct,No,,UK
+S-104462,2026-10-04,quilldata.io,Free,Organic search,Yes,,UK
+S-104463,2026-10-04,brightsystems.com,Starter,Referral,No,,FR
+S-104464,2026-10-04,cedardata.com,Free,Paid search,No,,KR
+S-104465,2026-10-04,bluefoods.co,Free,Paid search,No,,US
+S-104466,2026-10-04,orbitlearning.com,Free,Partner,Yes,,US
+S-104467,2026-10-04,signalstudio.co,Starter,Direct,Yes,,CA
+S-104468,2026-10-04,lumenfoods.com,Starter,Referral,Yes,,US
+S-104469,2026-10-04,atlasdata.ai,Free,Referral,Yes,,AU
+S-104470,2026-10-04,northlogistics.io,Starter,Organic search,Yes,,FR
+S-104471,2026-10-04,quillstudio.com,Starter,Organic search,No,,US
+S-104472,2026-10-04,bluehealth.ai,Free,Organic search,No,,US
+S-104473,2026-10-04,summithealth.com,Free,Organic search,No,,UK
+S-104474,2026-10-04,orbitfinance.io,Free,Referral,No,,KR
+S-104475,2026-10-04,harborlabs.co,Starter,Direct,Yes,,UK
+S-104476,2026-10-04,brightstudio.io,Starter,Direct,Yes,,US
+S-104477,2026-10-04,harborlogistics.com,Free,Paid search,No,,CA
+S-104478,2026-10-04,signaldata.co,Free,Organic search,No,,US
+S-104479,2026-10-04,blueworks.io,Free,Referral,No,,FR
+S-104480,2026-10-04,harborstudio.com,Starter,Organic search,Yes,,KR
+S-104481,2026-10-04,brightstudio.com,Team,Paid search,Yes,,UK

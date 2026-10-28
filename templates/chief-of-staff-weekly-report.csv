@@ -1,0 +1,11 @@
+Section,Metric,Owner,This week,Last week,Change,Source,Data through,Note
+Revenue,Invoiced revenue month to date,Finance lead,$61k,$24k,+$37k,Accounting export (invoices),2026-10-09,"Plan to date $57k, October plan $180k; 2 test invoices left out"
+Revenue,Weighted pipeline,Sales lead,$412k,$398k,+$14k,CRM deal export,2026-10-09,Open deals only; amount times deal probability
+Hiring,Hires vs Q4 plan,Recruiting lead,2 of 9,1 of 9,+1,Applicant tracker export,2026-10-09,"Counted when the offer is accepted; 3 offers out, 1 role on hold left out"
+Key results,Key results on track,Chief of staff,8 of 11,7 of 11,+1,OKR tracker,2026-10-08,On track means a projected score of 0.7 or higher at the Thursday check-in
+Cash,Cash on hand,Finance lead,$2.41M,$2.47M,-$60k,Bank balance export,2026-10-09,Operating accounts only
+Cash,Runway,Finance lead,19 months,19 months,0,Bank balance export and monthly P&L,2026-10-09,"Cash divided by average monthly net burn for July to September ($127k); one-off tax refund left out"
+Customers,Paying customers,Customer success lead,642,629,+13,Billing system export,2026-10-09,Active paid plan at end of day Friday; free trials left out
+Customers,Customers lost this week,Customer success lead,3,5,-2,Billing system export,2026-10-09,Cancellations that took effect this week
+Risks,High risks open,Chief of staff,2,3,-1,Risk log,2026-10-09,Largest renewal due Nov 30; payroll vendor contract ends Dec 31
+Decisions,Decisions needed this week,Chief of staff,2,1,+1,Decision log,2026-10-09,Approve payroll vendor; confirm Q4 hiring plan
